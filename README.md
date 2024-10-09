@@ -13,3 +13,18 @@ The objective of this project is to develop a Convolutional Neural Network (CNN)
 **Optimization**: The model employs Adam and Stochastic Gradient Descent (SGD) optimizers to minimize loss and improve accuracy.
 
 **Callbacks**: ReduceLROnPlateau and early stopping techniques are applied to optimize the model training and prevent overfitting. The initial learning rate is set to 0.001, which is dynamically reduced based on validation loss to ensure more stable and efficient training.
+
+## Technologies Used
+
+### Programming Language:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Framework:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Libraries:
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
