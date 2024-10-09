@@ -6,6 +6,8 @@ The objective of this project is to develop a Convolutional Neural Network (CNN)
 
 # Project Workflow
 
+**Dataset**: The dataset used in this project contains a total of 2898 images for training, across 29 different classes (hand gestures) and 29 images for testing, also belonging to 29 classes.
+
 **Data Preprocessing**: Images are preprocessed using TensorFlow and Keras functions for scaling and normalization, ensuring compatibility with the CNN model for effective training.
 
 **Model Architecture**: The CNN model is built with multiple convolutional layers for feature extraction, followed by pooling layers to reduce dimensionality. The extracted features are then passed through fully connected dense layers for final classification across 29 hand gesture classes.
